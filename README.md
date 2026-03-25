@@ -25,7 +25,7 @@ True Cost Calculator is an Agentic AI-based system that helps users estimate the
 
 - **Language:** Python  
 - **Backend:** Flask  
-- **AI Framework:** Groq(Langchain)  
+- **AI Framework:** Groq
 - **Database:** SQLite (`truecost.db`)  
 - **Frontend/UI:** Streamlit  
 - **Other Tools:** Web scraping, REST APIs  
