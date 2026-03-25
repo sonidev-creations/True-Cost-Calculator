@@ -130,8 +130,8 @@ python app.py
 
 ### 6️⃣ Run Frontend
 ```bash
-cd ..
-streamlit run frontend/app.py
+cd frontend
+python -m streamlit run app.py
 ```
 
 ---
