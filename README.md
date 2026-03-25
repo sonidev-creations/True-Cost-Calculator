@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sonidev-creations/true-cost-calculator/master/assets/screenshot.png.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/sonidev-creations/true-cost-calculator/master/assets/screenshot.png" width="700"/>
 </p>
 
 # 🌍 True Cost Calculator using Agentic AI
