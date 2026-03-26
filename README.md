@@ -86,7 +86,7 @@ true-cost-calculator/
 2. AI agent analyzes cost factors (tax, duty, shipping)  
 3. Backend processes data and calculates total cost  
 4. Currency conversion is applied  
-5. Final cost is displayed with detailed breakdown  
+5. Final cost is displayed with detailed breakdown of recommendation  
 
 ---
 
